@@ -6,7 +6,7 @@ Course Listing: View a list of top courses across different categories.
 Filter by Category: Filter courses based on selected categories such as Development, Business, Design, and Lifestyle.
 Like Courses: Users can "like" courses and see a notification confirming their action.
 Demo
-You can view the live demo of the application .
+You can view the live demo of the application here https://aarizquadir.github.io/LikeCourse/ .
 # screen shots
 ![Screenshot 2024-05-28 221600](https://github.com/AarizQuadir/LikeCourse/assets/167294376/2aafd18e-844d-4ba6-b567-4855a77a53af)
 
