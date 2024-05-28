@@ -10,4 +10,5 @@ You can view the live demo of the application .
 # screen shots
 ![Screenshot 2024-05-28 221600](https://github.com/AarizQuadir/LikeCourse/assets/167294376/2aafd18e-844d-4ba6-b567-4855a77a53af)
 
-![Screenshot 2024-05-23 204846](https://github.com/AarizQuadir/LikeCourse/assets/167294376/757baa25-34c9-4c9b-890a-05513b308e75)
+
+![Screenshot 2024-05-28 221550](https://github.com/AarizQuadir/LikeCourse/assets/167294376/feef2ec6-4d4c-42f4-9384-d7227aa91fb5)
